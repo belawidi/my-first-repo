@@ -1,32 +1,25 @@
-# This is a large heading
-	
-## This is a smaller heading
-	
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-	
-- This is
-- an unordered
-- list
-	
-1. This is
-2. an ordered
-3. list
-	
-Here is `some code` in the middle of a sentence.
-	
-```
-This is
-a block
-of code
-```
-	
-Here is how you make [a link](https://www.wikipedia.org/).
-	
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-	
-nano README.md
+# Bela Widi
+### Geopgraphy
 
+I live in Washington DC, USA
+
+### Reading
+
+My favorite books are:
+
+-*The Bible* 
+-*The Best Life Now* by Joel Osteen
+-*Think Better Live Better* by Joel Osteen 
+
+### Food
+
+My favorite food are:
+
+1. Steam Lobster with drawn butter
+2. Raw clams with tabasco
+3. Roasted Boar Batak style
+
+### Contact 
+
+The best way to get in touch with me is [on Linkedin}(https://www.linkedin.com/in/bela-widi-468709a4).
 
